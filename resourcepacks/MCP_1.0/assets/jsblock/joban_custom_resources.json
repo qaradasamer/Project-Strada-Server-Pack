@@ -1,0 +1,64 @@
+{
+  "pids_images": [
+    {
+      "id": "mc_ow_1",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [true, true, true, false],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/mc_ow_1.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    },
+    {
+      "id": "mc_ow_2",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [true, true, true, false],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/mc_ow_2.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    },
+    {
+      "id": "mc_ow_3",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [true, true, true, false],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/mc_ow_3.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    },
+    {
+      "id": "mc_ow_4",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [true, true, true, false],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/mc_ow_4.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    },
+    {
+      "id": "mc_ow_5",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [true, true, true, false],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/mc_ow_5.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    },
+    {
+      "id": "1st_clss",
+      "showWeather": true,
+      "showClock": true,
+      "hideRow": [true, true, true, true],
+      "customTextPushArrival": false,
+      "background": "jsblock:custom_directory/1st_clss.png",
+      "fonts": "mtr:mtr",
+      "color": "FFFFFF"
+    }
+  ]
+}

@@ -1,12 +1,15 @@
 # Ignore actual mod files but keep metadata
 mods/*.jar
 optional-mods/*.jar
-resourcepacks/*
-!resourcepacks/*.txt
 
 # Keep metadata files
 !mods/*.pw.toml
 !optional-mods/*.pw.toml
+
+# Resource packs - ignore zips but keep metadata
+resourcepacks/*.zip
+!resourcepacks/*.toml
+!resourcepacks/*.pw.toml
 
 # Ignore cache and local files
 .packwiz-cache/

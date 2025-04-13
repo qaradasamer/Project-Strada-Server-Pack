@@ -1,0 +1,13 @@
+name = "FlashWool"
+filename = "FlashWool v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eGufCd17/versions/puSRWRLz/FlashWool%20v1.1.zip"
+hash-format = "sha512"
+hash = "f5b9cf28c1f58e39eead4e3dcd56554c37e0dfc7682e9683c9e976b0d0fcbfda8ccf1680aef63a0d1984bad2fb9ead3d6e74614f00e7f9ec0970d2210cef00d1"
+
+[update]
+[update.modrinth]
+mod-id = "eGufCd17"
+version = "puSRWRLz"

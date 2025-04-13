@@ -10,6 +10,36 @@ This project contains a Minecraft modpack created using packwiz, designed for Pr
 - `resourcepacks/`: Resource packs for the modpack
 - `bootstrap/`: Contains the auto-update configuration
 
+## Resource Packs
+The following resource packs are included:
+- Buses4MC [1.0.1-HOTFIX]
+- Chup's sign pack RU-EN [v1.1]
+- Istanbul Metro Logo [V1.0]
+- Joban Brand Pack
+- Joban SRP
+- MTR First Class Trains Pack [V2.0]
+- MTR Sydney Metro and Trains
+- Muni Metro Siemens S200
+- NL Deco
+- PolyCity [1.0]
+- RNET Stadler Flirt 3
+- SBS Transit C951 [V1.2]
+- SMRT/SBST C851E [V1.0]
+- SMRT Trains C830/C830C [V1.0]
+- SMRT Trains T251 [Update 2]
+- SP1900 LTA [v1]
+- TRT JJ Line [Ver1]
+- TRT L10 [1.0re]
+- UK MTR [1.2-HOTFIX1]
+- CP3400
+- Munich Metro
+- Nuremberg G1
+- SCNF
+- shLCD-16A02 [V2024.5]
+- smb112x's APM pack
+- SRT Amsterdam Metro
+- winPIDS [V1.1]
+
 ## Optional Mods
 The following mods are optional and can be installed based on your preference:
 - Simple Voice Chat: For voice communication
@@ -24,11 +54,11 @@ The following mods are optional and can be installed based on your preference:
 2. Copy the `packwiz-installer-bootstrap.jar` from the `bootstrap` folder to your instance's `mods` folder
 3. Copy `packwiz-url.txt` to your instance folder (same level as the mods folder)
 4. Launch the game - the bootstrap will automatically download and install all required mods
-5. Optional mods can be installed from the `optional-mods` folder based on your needs
+5. Copy desired resource packs from the `resourcepacks` folder to your instance's `resourcepacks` folder
 
 ## Auto-Updates
 This modpack uses packwiz for automatic updates. When you launch the game:
-1. The bootstrap mod will check for updates
+1. The bootstrap mod will check for updates from: https://raw.githubusercontent.com/qaradasamer/Project-Strada-Server-Pack/main/pack.toml
 2. If updates are available, they will be automatically downloaded
 3. All mods are pinned to specific versions for stability
 4. Updates will only occur when new versions are pushed to this repository

@@ -1,0 +1,13 @@
+name = "Vader's CTM Programmer Bricks Pack"
+filename = "Vader's CTM Programmer Bricks Pack V1.0.0 For Minecraft 1.7.2 - 1.20.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZR4qBD3Q/versions/UalwHL83/Vader%27s%20CTM%20Programmer%20Bricks%20Pack%20V1.0.0%20For%20Minecraft%201.7.2%20-%201.20.6.zip"
+hash-format = "sha512"
+hash = "a04444541976fc36df63821a99c9005d4db582fbdb6263871db083c5df4d0347be7c5a461c4b6658331499047fe4e5fbc053552489528afda3dce7e6251424a2"
+
+[update]
+[update.modrinth]
+mod-id = "ZR4qBD3Q"
+version = "UalwHL83"
