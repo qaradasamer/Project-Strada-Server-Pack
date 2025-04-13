@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "bd700020205bb128b7c85bab014bf646d6210ffb476c5bf258cbf3a8c0dfee7a"
+hash = "72f818ce635cff1c3253f005e42f43cbe90f9b1ea47ae37beb22d15b9335e55d"
 
 [[files]]
 file = "bootstrap/packwiz-installer-bootstrap.jar"
@@ -10,7 +10,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "bootstrap/packwiz-url.txt"
-hash = "c4ae3fa953112eb777a3d0d7f935859c8a5f71556d17b2e6bd69787a60b71728"
+hash = "d7ae204e05029482b0df0a600051233df01c33d744252e2d57a913a8aa23812c"
 
 [[files]]
 file = "mods/BadOptimizations-2.1.4-1.19.1-19.2.jar"
@@ -162,6 +162,16 @@ file = "mods/dynamic-fps-3.7.3+minecraft-1.19.0-fabric.jar"
 hash = "fae6fef25205f30d5338e14366ab2d4caff77e9a87cea51ed6f33d49a5594deb"
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "6ee5d2b0b9fecdaa022e64c518d921e4fc779c203a6efb80e5591a70f385f66c"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-sound-filters.pw.toml"
+hash = "5cf49c21017f2b6df0527146ac80d1019a62ac7e9cbff077798f9b80705db1b3"
+metafile = true
+
+[[files]]
 file = "mods/easyauth-mc1.19.1-3.1.8.jar"
 hash = "e5b95b4bc903d94361995b2e9388f53cc63edf94a191f517187b603298e21f73"
 
@@ -187,12 +197,32 @@ file = "mods/fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar"
 hash = "0193a021bd89158d8a5220d4cd5e7364221081d275a949245b3d4d585a2a030b"
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "99d1ac12d3829a64dd32d1333ed8e44fb8d2a9a319dd09c1de6c836255157c32"
+metafile = true
+
+[[files]]
 file = "mods/fabric-tree-chopper-0.8.10.jar"
 hash = "0964075cf1f41dd5b03e84e076941c30d6d79a5465d97581d5e1c940f5d14da9"
 
 [[files]]
+file = "mods/fabric-tree-chopper.pw.toml"
+hash = "ecdbc10f9886e35fb80bbc0d49b4fb6cd02cfb8ef53f6ee674616dc4fbbf4164"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "62eda556a285102b23faa44c53ab7393fe9638994d43512b9e0275a540cb378b"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-5.0.3-fabric.jar"
 hash = "ebb90e7d95a5405c20312459d03234519ab5202a501c34bef73eca9db82434c7"
+
+[[files]]
+file = "mods/immediately-fast.pw.toml"
+hash = "781822f957e1e7bcf0b70d20d64a7f2f75de5011f83e023c0ffe7e5f78c98d16"
+metafile = true
 
 [[files]]
 file = "mods/indium-1.0.9+mc1.19.2.jar"
@@ -205,6 +235,11 @@ hash = "6a06a609c749c78b098f1664ea33d1b54e6d335ef6ae7f9eff2029e814e393e5"
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "402ce406f23b8de2dd79d79ea42a7fa487e9ba6264bd59e9034da4e5cb548d7a"
+metafile = true
+
+[[files]]
+file = "mods/joban-client.pw.toml"
+hash = "1ff940b35c8ead1696b00d35ba6d36ff8f7aec2f326f70ec346212c472d190f9"
 metafile = true
 
 [[files]]
@@ -238,12 +273,47 @@ file = "mods/moreculling-1.19.1-0.17.0.jar"
 hash = "e6d180a4b9e29609efdaff1c010e79f2968d9b0ce3b95ac5559f60f45354bf04"
 
 [[files]]
+file = "mods/mtr-lu-addon.pw.toml"
+hash = "9b3782ab5af519d34cdc98419e15efedf02ba70f9447f77700653a4171bd9869"
+metafile = true
+
+[[files]]
+file = "mods/mtr-russian-metro.pw.toml"
+hash = "900c84cc6633631e6f2ff06297ed4fc483e103851f8acd437be512b2d179048d"
+metafile = true
+
+[[files]]
+file = "mods/mtr-station-decoration.pw.toml"
+hash = "58fdf9c542ebc510da11a78e373575d2cedf618dc499418cdd063db73d2e1625"
+metafile = true
+
+[[files]]
+file = "mods/nemos-transit.pw.toml"
+hash = "94f1b55a207c963284fce54099a2925dfa22ca8640ea74c6a3608132130e3c8f"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "45b8a9c2967e2a54db1c821f695cac5301645b99ccf803f0ffc58792ccba1739"
+metafile = true
+
+[[files]]
 file = "mods/reeses_sodium_options-1.6.4+mc1.19.2-build.93.jar"
 hash = "6fda8630dffc3c1b76a4595a2f20a7ec7db27412f35c1820eeacb85b0c71910c"
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "f805eeff3780fd8e9335eff68066290b3afca796be2bd6ebe3707468ff375c1d"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "10905b08f3e0dc8a28a82d90468945afc74d287d3ca4726e3336fa14afb1f698"
+metafile = true
+
+[[files]]
+file = "mods/slideshow.pw.toml"
+hash = "696b7e2b4c0860014133e27283c672a2e574a538d5e0aea8817ce9a958251959"
 metafile = true
 
 [[files]]
@@ -286,12 +356,37 @@ hash = "f27f3b2e2777f7e353e6c02c5899393c1c02f784b6ca14b5c0fa9dcfbe11e0b4"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "c0bded67f479579dd74bb9ebd8b297fb61406ccc90dff4c80b39f4df830a34ca"
+metafile = true
+
+[[files]]
+file = "mods/transit-manager.pw.toml"
+hash = "5b033e2f61d05fd3e6d2afa13cf9d42e2c5b0d7a90da6ca191dc291f5c765a42"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric-mc1.19.2-0.2.0+beta.7.30-all.jar"
 hash = "b9bbb7aeccaa51e5b08bda4dcb583deec6e6768c15887006f9043bf9e845875e"
 
 [[files]]
 file = "mods/worldedit-mod-7.2.11.jar"
 hash = "c9c5547e9b01b17fa7914cb2754548e546b7f26a381b99597f563a3ed6d3b2ea"
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4e45368db40a74143a90f3a9584ad4fc3ebcc5092d18e0a729387293d3d52a64"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "4ca879b88784b78cd573bdf42639212add073a048db3c7d4cf0ea499e121a750"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ec4084fcda9cfabfb2c55ae45c26bbc01e6e0127518db4419b8c66d13e4a489b"
+metafile = true
 
 [[files]]
 file = "optional-mods/WorldEditCUI-1.19.2+01.jar"

@@ -1,1 +1,1 @@
-http://localhost:8081/pack.toml
+https://raw.githubusercontent.com/qaradasamer/Project-Strada-Server-Pack/main/pack.toml
