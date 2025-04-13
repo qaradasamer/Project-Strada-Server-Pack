@@ -1,0 +1,337 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "bd700020205bb128b7c85bab014bf646d6210ffb476c5bf258cbf3a8c0dfee7a"
+
+[[files]]
+file = "bootstrap/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "bootstrap/packwiz-url.txt"
+hash = "c4ae3fa953112eb777a3d0d7f935859c8a5f71556d17b2e6bd69787a60b71728"
+
+[[files]]
+file = "mods/BadOptimizations-2.1.4-1.19.1-19.2.jar"
+hash = "534eaa9893c6b4b6d8b27781ce8cc88b5ab7e8893892a5364f5dce60496fefcf"
+
+[[files]]
+file = "mods/DynamicSoundFilters-1.3.0+1.19.jar"
+hash = "238e6374c4d453a69dd6ffc6ee8fd8a2f77e833e24a266331f852a03cc3eac96"
+
+[[files]]
+file = "mods/Dynmap-3.6-fabric-1.19.1 (1).jar"
+hash = "1bf03e29ac11a4ac66dc1d9d8d84ac9791129799cd130cf6a94062523b0e5cab"
+
+[[files]]
+file = "mods/ImmediatelyFast-Fabric-1.2.21+1.19.2.jar"
+hash = "870be207d3fcfb7eb426e2910809b4c99e460c7129ce0113a745c6073cb94204"
+
+[[files]]
+file = "mods/Joban-Client-Mod-1.19.2-1.2.1-hotfix-1.jar"
+hash = "e384edbe52ef00b64356fe9a4aa58cbfa64172897cf33bfddcf28d6b273673fd"
+
+[[files]]
+file = "mods/MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.7.jar"
+hash = "380f94aef1824b51587f9e453b7bf75a2ab0e0928e4814ae5ff98382660f88f2"
+
+[[files]]
+file = "mods/MTR-MSD-Addon-fabric-1.19.2-3.2.2-1.3.4-enhancement-1.jar"
+hash = "23826488e7c4dd727dab94fcc4e6c09d2a04ca392f7738012d43ff503e057228"
+
+[[files]]
+file = "mods/MTR-NTE-0.5.2+1.19.2.jar"
+hash = "b9a4680e5b63f8ce75365f99adcc3721b227cd4c85437d9ec742693a6e7da9c7"
+
+[[files]]
+file = "mods/MTR-Russian-Metro-Addon-fabric-1.19.2-3.2.2-1.0.0.jar"
+hash = "1b6473019d5dd23eb04e33c38e4dbc4637738fd3f1eb316841d1d4d81a4ef06c"
+
+[[files]]
+file = "mods/MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
+hash = "fe122776062a0c8f4b4c31fda3979b81c7f66897740f649672213c389eeea35f"
+
+[[files]]
+file = "mods/NoChatReports-FABRIC-1.19.2-v1.13.12.jar"
+hash = "be82d90ed39ea9348907e88dd555476c6acbe9057d1938be4c957222786f0912"
+
+[[files]]
+file = "mods/Resourcify (1.19-1.19.2-fabric)-1.4.2.jar"
+hash = "f4cd2ee9365bfdb59d5d0737b2f11b0d7b9bf6cea4d4d25c3c2f1e7c484728b9"
+
+[[files]]
+file = "mods/Slideshow-fabric-1.19.2-1.0.2-hotfix-1.jar"
+hash = "0e780e8ccc9e211ac5242475fb8bfa1ff12b9368ad1e1e9cefb7bdf6744153fa"
+
+[[files]]
+file = "mods/Terralith_v2.3.5.jar"
+hash = "9b2e2b297d444331c475d685fbfa40bfe521bcc10d72dc7cd440dc1c829c563e"
+
+[[files]]
+file = "mods/TransitManager-1.3.0+mc1.19.2.jar"
+hash = "df7180cca3128f9080f8b9ea4a51a83c641b0ea154a32ab034f89c34e4b67b1b"
+
+[[files]]
+file = "mods/XaerosWorldMap_1.30.5_Fabric_1.19.1.jar"
+hash = "2f197b2873c70dc4a2661ef41c4bfde1e515a04afbaecaafa51dc47adbbfbe1a"
+
+[[files]]
+file = "mods/Xaeros_Minimap_23.7.0_Fabric_1.19.1.jar"
+hash = "6b5323d7aea99c32e3b984c2ffc5e021c2ac358d139c139c84f049270feb117b"
+
+[[files]]
+file = "mods/YetAnotherConfigLib-2.2.0-for-1.19.2.jar"
+hash = "0a8102f86d50ab01ab02d5e8f47fc658e2e40360e86de7bc399bfe7737c56d9a"
+
+[[files]]
+file = "mods/architectury-6.6.92-fabric.jar"
+hash = "072d19cbe1dcf46588c815371b5a3186ff84512bbd29ed06bc74969bb3857543"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "faa23a8df4afb768544ac5aa0d0e91bf5d5a7bfe20f98975f1496da4cc03cbf6"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer-fabric-1.19.2-1.8.9.jar"
+hash = "89c7229b5d81ef7fb7efed0163cad3678fbf620f9a33584c11172d19e2593b0e"
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "0e8b2b3929592f2b7927fb282bc6ed3e580800fda3c257e52abe2d8f02a95054"
+metafile = true
+
+[[files]]
+file = "mods/automobility-0.4.2+1.19.2-fabric.jar"
+hash = "a3b2a4cc858538cc034cc99e2231010e8ec06f2eaef9d10e4e0df2c08b79bcdf"
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "771f09c9abfc75310885668ee20f34fe62a1edc33cfdece76568e66064f2f192"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "4b1431173f1a98e93959b0eb8f98378c277012b4c0a115582a0598202ca06f60"
+metafile = true
+
+[[files]]
+file = "mods/blossom-lib-2.5.1+1.19.jar"
+hash = "d09dd39477d2b9c65680f58b7bd8ad9abbc8c6684f20e11ed66cd5ba1681b3fc"
+
+[[files]]
+file = "mods/blossom-warps-2.0.4+1.19.jar"
+hash = "8488d5d66fa830fc398f66e0a918e045ef8b1a250141922fb561517c7986b75c"
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "9476f06551bb9f01888be484d7b5e5bf01270123aa1b71639632bf5596b5ad51"
+metafile = true
+
+[[files]]
+file = "mods/blossomwarps.pw.toml"
+hash = "4f595556ffe60d67aef94773e355a0176ff4e60c742196fb29c6a508b819db25"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric-mc1.19.2-0.2.0+alpha.9.11.jar"
+hash = "aa2fe73eecaeaf6dbb5ec2111afc76135ed8d5e684831f1e6cc4e8d2b0f6f1f5"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "bec132aa3c148776df4f1e6dd3357657b0ace25b3104084692704cbe87d42002"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "8065daccbfb21a16d16eb60ee4cd0cb5826ad925a83a96201f5881b5e2d4a6d3"
+metafile = true
+
+[[files]]
+file = "mods/discarpet.pw.toml"
+hash = "d65a86fed29631f87abd6d8a171de1049258bdbe80e2cd48e65dcb522bb6f154"
+metafile = true
+
+[[files]]
+file = "mods/djp-fabric-1.19.2-1.0.3.jar"
+hash = "8e8ff65069dc0b70cc78c5cc8389b4511adeb58fa7c98a5251e219a2ddf0069b"
+
+[[files]]
+file = "mods/dynamic-fps-3.7.3+minecraft-1.19.0-fabric.jar"
+hash = "fae6fef25205f30d5338e14366ab2d4caff77e9a87cea51ed6f33d49a5594deb"
+
+[[files]]
+file = "mods/easyauth-mc1.19.1-3.1.8.jar"
+hash = "e5b95b4bc903d94361995b2e9388f53cc63edf94a191f517187b603298e21f73"
+
+[[files]]
+file = "mods/enhancedblockentities-0.7.2+1.19.2.jar"
+hash = "d30d07ab73462580a52f73ba95a14c10a87ed3c70c7a386f40afd1308a9c1506"
+
+[[files]]
+file = "mods/entityculling-fabric-1.6.1-mc1.19.2.jar"
+hash = "b418e61bee73a070e2fe7ae5526ed5a4885f8a22c987e86b0615d5bc9aa13c29"
+
+[[files]]
+file = "mods/fabric-api-0.77.0+1.19.2.jar"
+hash = "0fc62744a38f629fe0840893713e6a111ed1263719f93e499c990688811824ec"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "d6b5b39cfbe821c74aef77da9957b9eed5a76b9554aaed62a2c5f78905e27679"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar"
+hash = "0193a021bd89158d8a5220d4cd5e7364221081d275a949245b3d4d585a2a030b"
+
+[[files]]
+file = "mods/fabric-tree-chopper-0.8.10.jar"
+hash = "0964075cf1f41dd5b03e84e076941c30d6d79a5465d97581d5e1c940f5d14da9"
+
+[[files]]
+file = "mods/ferritecore-5.0.3-fabric.jar"
+hash = "ebb90e7d95a5405c20312459d03234519ab5202a501c34bef73eca9db82434c7"
+
+[[files]]
+file = "mods/indium-1.0.9+mc1.19.2.jar"
+hash = "e0bee321e771ca46c4117a469cd916a71f8ce44cbfd35c006425775edfb79b50"
+
+[[files]]
+file = "mods/iris-mc1.19.2-1.6.11.jar"
+hash = "6a06a609c749c78b098f1664ea33d1b54e6d335ef6ae7f9eff2029e814e393e5"
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "402ce406f23b8de2dd79d79ea42a7fa487e9ba6264bd59e9034da4e5cb548d7a"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu-0.1.3.jar"
+hash = "4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8"
+
+[[files]]
+file = "mods/lithium-fabric-mc1.19.2-0.11.1.jar"
+hash = "7ee6a12cc5dabd0bcd6d368743270de08bc2dbac11d2b5c6d621841b8f448621"
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "9e7807de4fadf5611c84858beda2a178b9cbdb1683a29ea31d85ddddcdc6a83c"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "90e92df62a161f70e1e9a8436ce91e583f5640e8cee82d4cb43efd63d053b837"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-fabric-5.18.0+mc1.19.2.jar"
+hash = "64e1893dbc1edf35a36d7714d4a5c0fd7373d42b4d3ca93f59931931eeed7b88"
+
+[[files]]
+file = "mods/modmenu-4.2.0-beta.2.jar"
+hash = "d16f8f606270e60c1c85f7ad985387d267ae2ad0e0607396eec1366c8e207792"
+
+[[files]]
+file = "mods/moreculling-1.19.1-0.17.0.jar"
+hash = "e6d180a4b9e29609efdaff1c010e79f2968d9b0ce3b95ac5559f60f45354bf04"
+
+[[files]]
+file = "mods/reeses_sodium_options-1.6.4+mc1.19.2-build.93.jar"
+hash = "6fda8630dffc3c1b76a4595a2f20a7ec7db27412f35c1820eeacb85b0c71910c"
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "10905b08f3e0dc8a28a82d90468945afc74d287d3ca4726e3336fa14afb1f698"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric-1.19-1.7.1.jar"
+hash = "335d680c9e9d8016b2cf3019f3b0799ea1ad9c8b08b3f37187234abf7b4e0c1d"
+
+[[files]]
+file = "mods/sodium-extra-0.4.16+mc1.19.2-build.90.jar"
+hash = "b300f19b01aba000d212117a404c05bf81f783a2bb2fb8ea2a9ce4a4f9bc74c2"
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8f1db9907f748dfaa91fe66f7cbd09c5a9e9a549e23527e254a1e7c86e349fb8"
+metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
+hash = "12ecf3a81bcc18ae87e879124ccbc5d079e500be10e238bf61f56da5c3f7cf53"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f7c5f0d1e8711e621222474017e44e2de28d6df83db928f7e93502ea16715330"
+metafile = true
+
+[[files]]
+file = "mods/spark-1.10.37-fabric.jar"
+hash = "f778e98787946a8694ce603b963d8ba9077370f474384da38c607bcf4bb774ef"
+
+[[files]]
+file = "mods/squaremap-fabric-mc1.19.2-1.1.8.jar"
+hash = "b5532aa4b1bd8d7ec92dd1100e4bca6d17fbe9126d434bcfc5e360c0e34fb9e1"
+
+[[files]]
+file = "mods/starlight-1.1.1+fabric.ae22326.jar"
+hash = "f2dd6682941326a833aaba868339b4ad9c93882fdef4447120ca0a8dea633a42"
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "f27f3b2e2777f7e353e6c02c5899393c1c02f784b6ca14b5c0fa9dcfbe11e0b4"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric-mc1.19.2-0.2.0+beta.7.30-all.jar"
+hash = "b9bbb7aeccaa51e5b08bda4dcb583deec6e6768c15887006f9043bf9e845875e"
+
+[[files]]
+file = "mods/worldedit-mod-7.2.11.jar"
+hash = "c9c5547e9b01b17fa7914cb2754548e546b7f26a381b99597f563a3ed6d3b2ea"
+
+[[files]]
+file = "optional-mods/WorldEditCUI-1.19.2+01.jar"
+hash = "880639ff5a85df2225e4cb73d28e22130bfbf78c8e1de4d11c915a58dc1668c1"
+
+[[files]]
+file = "optional-mods/Zoomify-2.9.0.jar"
+hash = "6985cbd64c12fffbb04af4704b8798ee141c0a646d336704f0bf900ca01ba9f0"
+
+[[files]]
+file = "optional-mods/continuity-2.0.2+1.19.jar"
+hash = "8ff8aed276f8516c39bf2a1e780d0ce98949b7854664f1a0a50f6a67d846ca10"
+
+[[files]]
+file = "optional-mods/fabric-carpet-1.19.2-1.4.84+v221018.jar"
+hash = "da593278fd653399661e2c58814909b52ea04ac117abc2f811b45420438ed790"
+
+[[files]]
+file = "optional-mods/optional.toml"
+hash = "62f0bad172601c4033cccfe07ff1b92bfb34c94ac9e43e71acf66db292fcb447"
+
+[[files]]
+file = "optional-mods/visible-barriers-1.5.3+1.19.x.jar"
+hash = "32ac5dff5e655b489e80b4e346a16c4cbece0644e36e39c855aaf2a5775a1428"
+
+[[files]]
+file = "optional-mods/voicechat-fabric-1.19.2-2.5.26.jar"
+hash = "56240ea96b1e3ee311bfef4ae2215b9de298c7ccfc178a617ea3e73396eec9c7"
+
+[[files]]
+file = "resourcepacks/flashwool.pw.toml"
+hash = "301156ae7b8114cc1e8877e0c652206482f901ad8087a5a992c5f06f9cde5c87"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vaders-ctm-programmer-bricks-pack.pw.toml"
+hash = "43b087d8a9ff8c7e78d717a44eefddf8c6c197ab5698c0aec667f8b56b469a82"
+metafile = true
+
+[[files]]
+file = "xelas-dynamic-difficulty.pw.toml"
+hash = "87a56d41f8d19e3b9f25a66ce54f114bd28e6f831f2f648bc7c853b1c902c1ea"
+metafile = true

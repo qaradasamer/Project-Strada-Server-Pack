@@ -1,0 +1,13 @@
+name = "Carpet Discarpet"
+filename = "discarpet-1.19.2-1.4.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/m00L1GVJ/versions/CHapzQ4u/discarpet-1.19.2-1.4.7.jar"
+hash-format = "sha512"
+hash = "a0cfb9042e714dcfdda44180d504fc197b3023140a1bd902c682cf72355c49e26bb2b51801e1e47b78e1f5c736aaf7571dfd465294e4761576f35426df96753b"
+
+[update]
+[update.modrinth]
+mod-id = "m00L1GVJ"
+version = "CHapzQ4u"

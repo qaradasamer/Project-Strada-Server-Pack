@@ -1,0 +1,8 @@
+[optional-mods]
+# Client-side optional mods
+voice-chat = "voicechat-fabric-1.19.2-2.5.26.jar"
+carpet = "fabric-carpet-1.19.2-1.4.84+v221018.jar"
+continuity = "continuity-2.0.2+1.19.jar"
+worldedit-cui = "WorldEditCUI-1.19.2+01.jar"
+visible-barriers = "visible-barriers-1.5.3+1.19.x.jar"
+zoomify = "Zoomify-2.9.0.jar"

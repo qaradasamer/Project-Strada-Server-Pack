@@ -1,0 +1,13 @@
+name = "Xela's Dynamic Difficulty"
+filename = "RPG craft-V0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94c0c09781ea59d4326ffecce6fece87ddab33ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4511234
+project-id = 620671

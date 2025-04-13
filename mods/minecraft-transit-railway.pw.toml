@@ -1,0 +1,13 @@
+name = "Minecraft Transit Railway (Automated trains, planes, and more!)"
+filename = "MTR-fabric-4.0.0-beta.16+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6ec7f8c3c4d91f1cc51d572ad44f7d457889057"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6330571
+project-id = 266707
